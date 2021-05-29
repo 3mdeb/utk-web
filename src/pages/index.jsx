@@ -64,14 +64,6 @@ const Page = () => {
             </Link>
           </li>
           <li>
-            <Link href="/ROG-STRIX-X570-E-GAMING.uefi">
-              <a>ROG-STRIX-X570-E-GAMING uefi</a>
-            </Link>
-            <Link href="/ROG-STRIX-X570-E-GAMING.psp">
-              <a>ROG-STRIX-X570-E-GAMING psp</a>
-            </Link>
-          </li>
-          <li>
             <Link href="/UDOO-BOLT-C4000000.108.utk">
               <a>UDOO-BOLT-C4000000.108 utk</a>
             </Link>
@@ -210,6 +202,14 @@ const Page = () => {
             </Link>
             <Link href="/E7C37AMS.HD1.psp">
               <a>E7C37AMS.HD1 PSP</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/ROG-STRIX-X570-E-GAMING.uefi">
+              <a>S76 ROG-STRIX-X570-E-GAMING uefi</a>
+            </Link>
+            <Link href="/ROG-STRIX-X570-E-GAMING.psp">
+              <a>S76 ROG-STRIX-X570-E-GAMING psp</a>
             </Link>
           </li>
           <li>
